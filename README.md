@@ -16,7 +16,7 @@ here is the answer of question number 2:
 ![2](https://github.com/jordyjonathans/hitopia-problem-solving-test/assets/22707989/01a8f844-8d16-4de6-a654-ddf173ab30ba)
 
 ## Question 3:
-In the third question, we have to solve the highest palindrome problem where we have to replace some numbers with the limit which determined by *K* variable to fix the number series to be correct palindrome pattern.
+In the third question, we have to solve the highest palindrome problem where we have to replace some numbers with the limit which determined by *K* variable to fix the random number series into correct palindrome pattern.
 The time complexity of this code is O(n/2), because the recursive is only performed half of n times, that is n/2 times.
 
 here is the answer of question number 3:
